@@ -1,0 +1,6 @@
+author: RubikIntegration.com
+
+version: '1.0'
+
+history: 
+ '1.0': { 'sql': '1.0.sql', 'php': false }
